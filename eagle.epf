@@ -8,7 +8,6 @@ Desktop="Desktop"
 AutoSaveProject=1
 UsedLibrary="C:/EAGLE 8.4.2/lbr/recom-powerline-acdc-converters.lbr"
 UsedLibrary="C:/EAGLE 8.1.1/lbr/19inch.lbr"
-UsedLibrary="C:/EAGLE 8.1.1/lbr/40xx.lbr"
 UsedLibrary="C:/EAGLE 8.1.1/lbr/41xx.lbr"
 UsedLibrary="C:/EAGLE 8.1.1/lbr/45xx.lbr"
 UsedLibrary="C:/EAGLE 8.1.1/lbr/74ac-logic.lbr"
@@ -348,11 +347,13 @@ UsedLibrary="C:/EAGLE 8.1.1/lbr/xilinx-xc9.lbr"
 UsedLibrary="C:/EAGLE 8.1.1/lbr/xilinx-xcv.lbr"
 UsedLibrary="C:/EAGLE 8.1.1/lbr/zetex.lbr"
 UsedLibrary="C:/EAGLE 8.1.1/lbr/zilog.lbr"
+UsedLibrary="C:/EAGLE 8.4.2/lbr/xbee_r1.lbr"
+UsedLibrary="C:/EAGLE 8.4.2/lbr/G3MB.lbr"
 
 [Win_1]
 Type="Control Panel"
 Loc="0 0 1199 639"
-State=2
+State=0
 Number=0
 
 [Desktop]
